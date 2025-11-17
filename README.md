@@ -32,6 +32,8 @@ With increasing levels, faster cars, collision detection, and a persistent high-
 2. Run the game  
 ```bash
 python main.py
+```
+
 Use the keyboard to play:
 
 - ⬆️ Move Up
